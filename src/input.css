@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.paragraph{
+    @apply text-secondary md:text-xl text-lg font-normal;
+  }
+.features-paragraph{
+  @apply text-secondary md:text-lg font-normal
+}
+  .headings{
+    @apply text-3xl font-bold md:pb-1 pb-1;
+  }
