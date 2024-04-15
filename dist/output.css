@@ -575,30 +575,16 @@ video {
   margin-bottom: 1rem;
 }
 
-.my-3 {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
-.my-5 {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-}
-
 .ml-4 {
   margin-left: 1rem;
 }
 
-.mt-20 {
-  margin-top: 5rem;
-}
-
-.mt-7 {
-  margin-top: 1.75rem;
-}
-
 .mt-10 {
   margin-top: 2.5rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
 }
 
 .inline {
